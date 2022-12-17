@@ -10,7 +10,7 @@ The following question-and-answers are for course requirements.
 
 - How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
-  When developing programs, it can be helpful to approach the process with an agile mindset. Agile methodologies focus on flexibility and iterative development, allowing for rapid prototyping and adjustments based on user feedback. This can involve holding regular meetings, known as "sprints," to discuss progress and make any necessary changes.
+  When developing programs, it can be helpful to approach the process with an agile mindset. Agile methodologies focus on flexibility and iterative development, allowing for rapid prototyping and adjustments based on user feedback. This can involve holding regular meetings, known as "sprint reviews," to discuss progress and make any necessary changes.
   Other agile practices that may be useful to incorporate into future development work include using a cross-functional team, prioritizing the most valuable features first, and regularly demonstrating progress to stakeholders. By adopting an agile approach, you can be more responsive to changing requirements or priorities and deliver a high-quality product in a timely manner.
 
 - What does it mean to be a good team member in software development?
